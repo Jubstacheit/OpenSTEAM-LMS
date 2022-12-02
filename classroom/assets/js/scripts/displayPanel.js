@@ -459,7 +459,7 @@ function getTeacherActivity() {
                 $("#activity-content").html(bbcodeToHtml(contentParsed));
                 $("#activity-content-container").show();
             }
-        }      
+        }   
     } else {
        
         $('#activity-content').html(bbcodeToHtml(Activity.content))
