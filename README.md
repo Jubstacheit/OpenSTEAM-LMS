@@ -199,6 +199,17 @@ You just need to put it in a folder named ```plugins``` at the root of the OpenS
 
 Follow the steps described in the Build section above
 
+## Plugins list
+
+# Public plugins
+
+# Private plugins
+
+- ti-83 : Calculator management TI-83
+- PluginStateStorage : storage management of calculator state related to ti-83 plugin
+- PluginNewsLetter : Newsletter user's management (not related to user_regular)
+- PluginSurvey : Survey's management (we can display survey to LMS users)
+
 ## Email Templates
 
 Once you have set up all the fields related to emails + the ```VS_HOST``` in your .env file, the users who will register or request an email address update will receive a confirmation email to active their new account/ confirm their new email address.
